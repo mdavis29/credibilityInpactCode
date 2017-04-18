@@ -1,0 +1,12 @@
+Package: credibilityImpactCode
+Type: Package
+Title: Credibility Weighted Catagorical Impact Coding 
+Version: 0.0.1
+Author: Matthew Davis
+Maintainer: Matthew Davis <mdavis29@gmail.com>
+Description: uses multi level models to do catagorical encoding
+License: MIT
+Depends: lmer
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
