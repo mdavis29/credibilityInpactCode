@@ -6,7 +6,7 @@ Author: Matthew Davis
 Maintainer: Matthew Davis <mdavis29@gmail.com>
 Description: uses multi level models to do catagorical encoding
 License: MIT
-Depends: lmer
+Depends: lme4
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
